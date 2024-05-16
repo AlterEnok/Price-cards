@@ -1,5 +1,5 @@
  Price-cards-layout
- SITE LINK: https://alterenok.github.io/Price-cards-layout/
+ SITE LINK: https://alterenok.github.io/Price-cards/
  
  The layout supports the desktop version (up-to-1360) versions.
  
